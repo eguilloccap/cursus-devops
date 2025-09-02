@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=25UaRP72hAk
+
 # This repo is used for devops training by Dirane TAFEN (diranetafen@yahoo.com)
 
 ## Recommended Vagrant Version: [2.4.1](https://releases.hashicorp.com/vagrant/2.4.1/)
